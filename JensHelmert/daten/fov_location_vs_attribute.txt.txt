@@ -1,3 +1,0 @@
-design: repeated-measures
-UVs: block, fixation_target (post-hoc)
-AVs: fix_dur, sac_amplitude
